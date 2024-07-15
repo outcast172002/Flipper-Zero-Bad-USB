@@ -1,0 +1,12 @@
+REM made by Cyber Matt
+REM This script opens chrome, searches youtube, and auto plays rickrolls with no ads
+GUI r
+DELAY 1000
+STRING Chrome
+DELAY 1500
+ENTER
+DELAY 1500
+ALT d
+DELAY 1500
+STRING https://www.youtube.com/watch?v=xvFZjo5PgG0
+ENTER
